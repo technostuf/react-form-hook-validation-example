@@ -1,0 +1,15 @@
+p {
+  font-family: Lato;
+}
+
+label {
+  text-align: left;
+}
+
+#root {
+  padding: 30px;
+}
+
+.register-form {
+  margin: auto;
+}
